@@ -2,7 +2,11 @@
 
 # Royal Beauty Online Shop
 
-## Run
+## Production
+
+Please visit https://royal-beauty.netlify.app/
+
+## Run Locally
 
 `npm start`
 then browse http://localhost:3000
