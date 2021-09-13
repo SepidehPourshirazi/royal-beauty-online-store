@@ -2,7 +2,7 @@ import React from "react";
 import { Form, Col, Row, Button, Container } from "react-bootstrap";
 import "./Login.css";
 
-export default function () {
+const Login = () => {
   return (
     <div>
       <Container>
@@ -47,4 +47,5 @@ export default function () {
       </Container>
     </div>
   );
-}
+};
+export default Login;

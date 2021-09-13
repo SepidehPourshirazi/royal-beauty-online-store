@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import { Nav, Container, FormControl, Navbar, Form } from "react-bootstrap";
 import "./Navbar.css";
 
-export default function () {
+const Navbars = () => {
   return (
     <Container className="container-navbar">
       <Navbar className="navbar-navbar ">
@@ -23,4 +23,5 @@ export default function () {
       </Navbar>
     </Container>
   );
-}
+};
+export default Navbars;

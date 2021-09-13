@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Navbar, Modal, Button, Container } from "react-bootstrap";
+import { Navbar, Modal, Container } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faUserCircle,
@@ -9,7 +9,7 @@ import { faGratipay } from "@fortawesome/free-brands-svg-icons";
 import "./Header.css";
 import Login from "../login/Login";
 
-export default function () {
+const Header = () => {
   const [isOpen, setOpen] = useState(false);
 
   const clickHandler = () => {
@@ -69,4 +69,6 @@ export default function () {
       </Modal>
     </Navbar>
   );
-}
+};
+
+export default Header;

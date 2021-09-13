@@ -2,7 +2,7 @@ import React from "react";
 import { Carousel, Container } from "react-bootstrap";
 import "./Jumbotron.css";
 
-export default function () {
+const Jumbotron = () => {
   return (
     <Container>
       <Carousel fade className="mb-3">
@@ -30,4 +30,5 @@ export default function () {
       </Carousel>
     </Container>
   );
-}
+};
+export default Jumbotron;
