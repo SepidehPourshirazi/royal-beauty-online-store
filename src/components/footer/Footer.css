@@ -1,0 +1,49 @@
+.main-style {
+  background-color: #222222;
+  color: #eebf68 !important;
+  text-transform: uppercase;
+  font-size: small;
+}
+.customer-care-link {
+  text-align: left;
+}
+.footer-menu-link {
+  text-align: center;
+}
+.follow-us {
+  text-align: right;
+  margin-right: 55px;
+}
+.social-media-link {
+  align-items: right;
+  float: right !important;
+  border-top: 0.1rem solid #eebf68;
+  padding-bottom: 0.5rem;
+  display: flex;
+  padding: 0.5rem 0.1rem;
+}
+.main-style a {
+  color: #eebf68;
+}
+.main-style a:hover {
+  color: aliceblue;
+}
+.facebook {
+  color: #1877f2;
+}
+.instagram {
+  color: #c32aa3;
+}
+.twitter {
+  color: #1da1f2;
+}
+.linkedin {
+  color: #0a66c2;
+}
+.pinterest {
+  color: #bd081c;
+}
+
+.nav-link {
+  padding: 0.1rem 0.5rem !important;
+}

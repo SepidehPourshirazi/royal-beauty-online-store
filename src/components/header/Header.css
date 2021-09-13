@@ -1,0 +1,17 @@
+.main-header {
+  background-color: #222222;
+}
+.brand-header {
+  color: #eebf68 !important;
+  text-transform: capitalize;
+  /* font-weight: bold; */
+  font-style: italic;
+  font-size: 30px !important;
+}
+.icon-header {
+  color: #eebf68;
+  padding-right: 0.75rem;
+}
+
+.title-modal {
+}

@@ -1,0 +1,18 @@
+.style-contact {
+  padding: 3rem 7rem;
+  background-color: #e6e6e6;
+}
+.container-contact {
+  margin: 2rem 25rem;
+}
+.button-contact {
+  color: #eebf68 !important;
+  width: 11.25rem;
+  border-radius: 2rem;
+  margin-top: 1rem;
+}
+.heading-contact {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}

@@ -1,0 +1,290 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "category": "makeUp",
+      "image": "",
+      "name": "KISSKISS LIPLIFT",
+      "description": "SMOOTHING LIPSTICK PRIMER",
+      "claim": "",
+      "price": 48,
+      "rating": 3,
+      "newArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": 1,
+      "category": "makeUp",
+      "image": "",
+      "name": "ROUGE G",
+      "description": "ALL_IN_ONE LIPSTICK IN A PRESTIGIOUS EDITION",
+      "claim": "",
+      "price": 350,
+      "rating": 4,
+      "newArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": 2,
+      "category": "makeUp",
+      "image": "",
+      "name": "MÉTÉORITES PEARL GLOW",
+      "description": "LIGHT_REVEALING PEARLS OF POWDER",
+      "claim": "",
+      "price": 150,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": 3,
+      "category": "makeUp",
+      "image": "",
+      "name": "PARURE GOLD",
+      "description": "GOLD RADIANCE FOUNDATION",
+      "claim": "",
+      "price": 102,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": 4,
+      "category": "makeUp",
+      "image": "",
+      "name": "L'OR",
+      "description": "RADIANCE CONCENTRATE WITH PURE GOLD",
+      "claim": "",
+      "price": 85,
+      "rating": 4,
+      "newArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": 5,
+      "category": "makeUp",
+      "image": "",
+      "name": "MAD EYES",
+      "description": "MASCARA BUILDABLE VOLUME LASH BY LASH",
+      "claim": "",
+      "price": 42,
+      "rating": 3,
+      "newArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": 6,
+      "category": "fragrance",
+      "image": " ",
+      "name": "LES ABSOLUS D'ORIENT",
+      "description": "MUSC NOBLE A harmony of musk and a majestic rose",
+      "claim": "",
+      "price": 221,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": 7,
+      "category": "fragrance",
+      "image": "",
+      "name": "SANTAL ROYAL",
+      "description": "EAU DE PARFUM A rich wood with a sacred aura",
+      "claim": "",
+      "price": 221,
+      "rating": 5,
+      "newArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": 8,
+      "category": "fragrance",
+      "image": "",
+      "name": "LES EAUX ",
+      "description": "EAU DE GUERLAIN Provençale freshness",
+      "claim": "",
+      "price": 190,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": 9,
+      "category": "fragrance",
+      "image": "",
+      "name": "c",
+      "description": "EAU DE PARFUM ",
+      "claim": "",
+      "price": 180,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": 10,
+      "category": "fragrance",
+      "image": "",
+      "name": "PATCHOULI ARDENT",
+      "description": "EAU DE PARFUM",
+      "claim": "",
+      "price": 221,
+      "rating": 3,
+      "newArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": 11,
+      "category": "fragrance",
+      "image": "",
+      "name": "LES PARISIENNES GUERLAIN",
+      "description": "L'INITIAL",
+      "claim": "",
+      "price": 147,
+      "rating": 4,
+      "newArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": 12,
+      "category": "skinCare",
+      "image": "ORCHIDÉE IMPÉRIALE BRIGHTENING",
+      "name": "",
+      "description": "THE BRIGHTENING RADIANCE ESSENCE_IN_LOTION",
+      "claim": "",
+      "price": 165,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": 13,
+      "category": "skinCare",
+      "image": "",
+      "name": "ORCHIDÉE IMPÉRIALE",
+      "description": "IMPERIAL RITUAL Exceptional Complete Care",
+      "claim": "",
+      "price": 1349,
+      "rating": 4,
+      "newArrival": true,
+      "bestSeller": false
+    },
+    {
+      "id": 14,
+      "category": "skinCare",
+      "image": "",
+      "name": "CRÈME DE BEAUTÉ ",
+      "description": "CLEANSING CREAM",
+      "claim": "",
+      "price": 170,
+      "rating": 3,
+      "newArrival": false,
+      "bestSeller": false
+    },
+    {
+      "id": 15,
+      "category": "skinCare",
+      "image": "",
+      "name": "",
+      "description": "",
+      "claim": "",
+      "price": 165,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": 16,
+      "category": "skinCare",
+      "image": "",
+      "name": "ABEILLE ROYALE",
+      "description": "DOUBLE R _ RENEW & REPAIR SERUM",
+      "claim": "",
+      "price": 255,
+      "rating": 5,
+      "newArrival": false,
+      "bestSeller": true
+    },
+    {
+      "id": 17,
+      "category": "skinCare",
+      "image": "",
+      "name": "ABEILLE ROYALE",
+      "description": "MULTI_WRINKLE MINIMIZER EYE CREAM",
+      "claim": "",
+      "price": 149,
+      "rating": 4,
+      "newArrival": false,
+      "bestSeller": false
+    }
+  ],
+  "jumbotrons": [
+    {
+      "id": 0,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 1,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 2,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 3,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 4,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 4,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 5,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 6,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 7,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 8,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 9,
+      "image": "",
+      "order": ""
+    },
+    {
+      "id": 10,
+      "image": "",
+      "order": ""
+    }
+  ],
+  "about": [
+    {
+      "id": 0,
+      "image": "imagrs/products/0.jpg",
+      "title": "THE CULTURE OF BEAUTY",
+      "description": "For almost two centuries, Guerlain has been in love with everything that beauty encompasses. Thrilled at the idea of an ingenious new pencil stroke. Delighted at each step of creative daring.GUERLAIN & ART      Since 1828, the story of Guerlain has gone hand in hand with that of Art. In 1889, Aimé Guerlain composed Jicky like an Impressionist painting. In 1939, Jean-Michel Frank, Christian Bérard and Alberto Giacometti combined their talents and created the interior design of the brand-new Champs-Élysées beauty Institute. For more than 12 years now, Guerlain is also a partner of the FIAC (the International Contemporary Art Fair)."
+    }
+  ]
+}

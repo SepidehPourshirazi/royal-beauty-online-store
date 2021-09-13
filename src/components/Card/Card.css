@@ -1,0 +1,13 @@
+.style-card {
+  text-align: center;
+  color: #eebf68;
+  background-color: #222222;
+}
+.button-card {
+  border-radius: 50% !important;
+  background-color: #222222 !important;
+  border-color: #222222 !important;
+}
+.icon-card {
+  color: #eebf68;
+}
